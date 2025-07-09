@@ -1,8 +1,7 @@
 -**HELLO THERE! **
 My name is Benny 
-- 👀 I’m interested in Web Devs
-- 🌱 I’m currently learning  React JS
-- 💞️ I’m looking to collaborate on developing complex  web aplications
+- 👀 I’m interested in Web Devs & Data Analytics
+- 🌱 I’m currently learning  DAta Analytics
 - 📫 You can  reach me at soerbenjamin@gmail.com
 
 <!---
